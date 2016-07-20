@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -18,16 +19,15 @@ description: >-
   side. So we have learned to grab sleep as needed in order to complete long
   endurance efforts together, and to begin them when it best works out for our
   busy schedules. 
-datePublished: '2016-07-20T14:27:24.684Z'
-dateModified: '2016-07-20T14:27:07.916Z'
+datePublished: '2016-07-20T14:35:47.637Z'
+dateModified: '2016-07-20T14:35:40.630Z'
 title: Dharma Bumming the Double Desolation Route
 author: []
 sourcePath: _posts/2016-07-20-dharma-bumming-the-double-desolation-route.md
 authors: []
 publisher: null
 starred: false
-url: dharma-bumming-the-double-desolation-route/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Dharma Bumming the Double Desolation Route
