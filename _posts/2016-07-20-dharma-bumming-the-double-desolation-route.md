@@ -18,8 +18,8 @@ description: >-
   side. So we have learned to grab sleep as needed in order to complete long
   endurance efforts together, and to begin them when it best works out for our
   busy schedules. 
-datePublished: '2016-07-20T14:41:00.085Z'
-dateModified: '2016-07-20T14:40:47.331Z'
+datePublished: '2016-07-20T14:45:02.925Z'
+dateModified: '2016-07-20T14:42:19.364Z'
 title: Dharma Bumming the Double Desolation Route
 author: []
 sourcePath: _posts/2016-07-20-dharma-bumming-the-double-desolation-route.md
