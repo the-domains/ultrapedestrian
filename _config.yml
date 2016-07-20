@@ -1,8 +1,10 @@
 name: UltraPedestrian
 favicon: null
-layout_spectrum: 0.5469823845196515
-typography_spectrum: 0.14280038326978683
-title: Trail running - Ultrarunning - Fastpacking - Thru-hiking - Supported - Unsupported - Self-supported - All of the Above
+layout_spectrum: 0.37011
+typography_spectrum: 0.57945
+title: >-
+  Trail running - Ultrarunning - Fastpacking - Thru-hiking - Supported -
+  Unsupported - Self-supported - All of the Above
 cta:
   domain: null
   bucket: null
@@ -17,11 +19,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#00934c'
+    - '#ffcf54'
+    - '#f01927'
+    - '#100708'
+    - '#f8753d'
   brandStrength: 0.6857062159106135
   lightness: 0.20060026017017663
   saturation: 0.8631533882580698
