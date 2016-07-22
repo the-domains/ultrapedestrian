@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T16:19:33.787Z'
-dateModified: '2016-07-22T16:19:31.688Z'
+datePublished: '2016-07-22T16:23:59.670Z'
+dateModified: '2016-07-22T16:23:55.087Z'
 title: Mount Rainier Infinity Loop
 author: []
 via: {}
@@ -23,6 +23,7 @@ _type: Article
 # Mount Rainier Infinity Loop
 
 ## Only Known Time\* Attempt
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bde5d52-b3ef-46a0-a5f7-26da237d4dfc.png)
 
 **Our Parks/Your Adventure Fundraiser for The Mountaineers Youth Programs - ****Ras Vaughan and Gavin Woody**
 
