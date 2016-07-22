@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T16:37:19.871Z'
-dateModified: '2016-07-22T16:37:17.465Z'
+datePublished: '2016-07-22T16:48:34.697Z'
+dateModified: '2016-07-22T16:45:09.482Z'
 title: Mount Rainier Infinity Loop
 author: []
 via: {}
@@ -57,7 +57,6 @@ On the rare occasions when we have cell reception we will post updates to our Fa
 Our **Mount Rainier Infinity Loop **attempt is meant to be a celebration of the amazing and extraordinary things that Human Beings are capable of. Gavin and I are drawing our inspiration from the life and adventures of Chad Kellogg, and hope to send that energy and inspiration reverberating out into the world to inspire others as it has us. And we also hope to use this project to inspire future generations of climbers, runners, thru-hikers, fastpackers, backpackers, and adventurers of all stripes by helping raise money for The Mountaineers Youth Programs by means of the **[Our Parks / Your Adventure][11]** initiative. Please **[click here][11]**to learn more about the program and to donate. Whether you give $10 or $5,000 your donation will help introduce deserving young people to the fulfillment and enrichment of outdoor adventure, essentially helping to reintroduce them to their natural habitat.
 
 What a Blessing to be Alive! Give Thanks for Life!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/981d4f69-a368-4351-b7bc-b902765ff5f0.png)
 
 **\* Footnote:** According to some MRNP Climbing Rangers there is a local climber who completed the Infinity Loop a couple of years ago. It was done as a project of personal accomplishment with no announcement of intent, no live tracking or transparency, no trip report, and no time posted or made public. I have the utmost respect for efforts of this sort and am not trying to detract from it at all. However, Gavin and I are playing the FKT/OKT game according to the established rules: declaring our intentions, posting tracking links, opening ourselves up to public scrutiny, and establishing a time for others to challenge in the future. Since baseball is popular, I'll use a baseball analogy. A pitcher might be able to throw the world's fastest pitch under perfect conditions outside of a game. That would be a matter of great pride and personal accomplishment. However, it would not be the same as throwing the world's fastest pitch against a batter and in front of a crowd. The pitcher throwing in perfect conditions has accomplished something impressive, but is not actually playing the game. Our Rainier Infinity Loop OKT attempt is being made according to the established methodologies of Peter Bakwin's Fastest Known Time website. We are playing the game.
 
