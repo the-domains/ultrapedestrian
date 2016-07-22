@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T16:50:56.881Z'
-dateModified: '2016-07-22T16:50:48.037Z'
+datePublished: '2016-07-22T17:18:24.061Z'
+dateModified: '2016-07-22T17:18:15.940Z'
 title: Mount Rainier Infinity Loop
 author:
   - name: ''
@@ -14,9 +14,7 @@ author:
 via: {}
 sourcePath: _posts/2016-07-22-mount-rainier-infinity-loop.md
 authors: []
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 starred: false
 url: mount-rainier-infinity-loop/index.html
 _type: Article
