@@ -1,21 +1,21 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T07:29:09.904Z'
-dateModified: '2016-07-22T07:28:58.294Z'
+datePublished: '2016-07-22T07:31:51.915Z'
+dateModified: '2016-07-22T07:31:39.867Z'
 title: Mount Rainier Infinity Loop
 author: []
 via: {}
+sourcePath: _posts/2016-07-22-mount-rainier-infinity-loop.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-22-mount-rainier-infinity-loop.md
 url: mount-rainier-infinity-loop/index.html
-_type: Blurb
+_type: Article
 
 ---
 ****
@@ -37,8 +37,7 @@ The Rainier Infinity Loop inhabits the extremely nichey grey area that I find so
 
 Routes such as the Mount Rainier Infinity Loop have a beauty and elegance to me that equal that of the Expressionist masters. I experience it as a something akin to a symphony, an idea that sends my heart and mind soaring and can bring a spike of adrenaline and the sound of blood rushing in my ears simply by calling it to mind. Learning of this beautiful and crazy route, fully conceived but left on the table incomplete, could be compared to finding a color-by-numbers canvass left behind by Monet. It's an opportunity to play a part in the realization of a grand idea, something otherwise beyond my ken and conception. Attempting to make the Rainier Infinity Loop a reality is an honor of which I am unworthy, and an opportunity impossible to pass up.On Saturday, July 23rd, 2016, around 4:00 pm Gavin Woody and I will begin our attempt to color in the masterpiece Chad Kellogg sketched out in his mind, a unique approach to experiencing The Mountain by a man with a singular understanding of that mountain. Gavin and I will depart Paradise, climb Disappointment Cleaver, descend the Emmons Glacier and Inter Glacier, run the Wonderland Trail clockwise back to Paradise. There we will rest briefly and resupply. We will then again climb Disappointment Cleaver, descend the Emmons Glacier and Inter Glacier, and then run the Wonderland counterclockwise to Paradise once again. Each of the two loops will be unsupported, carrying all of our gear, food, and trash from beginning to end, and only taking water from natural sources. Seventy-two hours would be a great performance for me on this project, but I suspect it will take more in the ninety-six hour range.Our progress can be tracked on our SPOT transponder beginning around 4:00 pm on Saturday, July 23rd, 2016:
 
-[**SPOT Transponder Tracking Page**  
-][6]
+[**SPOT Transponder Tracking Page**][6]
 
 On the rare occasions when we have cell reception we will post updates to our Facebook and Instagram profiles:
 
@@ -50,7 +49,7 @@ On the rare occasions when we have cell reception we will post updates to our Fa
 
 **[Gavin's Instagram][10]**
 
-Our **Mount Rainier Infinity Loop **attempt is meant to be a celebration of the amazing and extraordinary things that Human Beings are capable of. Gavin and I are drawing our inspiration from the life and adventures of Chad Kellogg, and hope to send that energy and inspiration reverberating out into the world to inspire others as it has us. And we also hope to use this project to inspire future generations of climbers, runners, thru-hikers, fastpackers, backpackers, and adventurers of all stripes by helping raise money for The Mountaineers Youth Programs by means of the **[Our Parks / Your Adventure][11]** initiative. Please **[click here][11] **to learn more about the program and to donate. Whether you give $10 or $5,000 your donation will help introduce deserving young people to the fulfillment and enrichment of outdoor adventure, essentially helping to reintroduce them to their natural habitat.
+Our **Mount Rainier Infinity Loop **attempt is meant to be a celebration of the amazing and extraordinary things that Human Beings are capable of. Gavin and I are drawing our inspiration from the life and adventures of Chad Kellogg, and hope to send that energy and inspiration reverberating out into the world to inspire others as it has us. And we also hope to use this project to inspire future generations of climbers, runners, thru-hikers, fastpackers, backpackers, and adventurers of all stripes by helping raise money for The Mountaineers Youth Programs by means of the **[Our Parks / Your Adventure][11]** initiative. Please **[click here][11]**to learn more about the program and to donate. Whether you give $10 or $5,000 your donation will help introduce deserving young people to the fulfillment and enrichment of outdoor adventure, essentially helping to reintroduce them to their natural habitat.
 
 What a Blessing to be Alive! Give Thanks for Life!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/981d4f69-a368-4351-b7bc-b902765ff5f0.png)
