@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T07:36:38.111Z'
-dateModified: '2016-07-22T07:35:08.512Z'
+datePublished: '2016-07-22T07:42:08.543Z'
+dateModified: '2016-07-22T07:41:58.744Z'
 title: Mount Rainier Infinity Loop
 author: []
 via: {}
@@ -25,13 +25,13 @@ _type: Article
 ## Only Known Time Attempt
 
 **Our Parks/Your Adventure Fundraiser for The Mountaineers Youth Programs - ****Ras Vaughan and Gavin Woody**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27a844fd-ede0-441b-ab79-f44903f0858b.jpg)
 
 ****by Ras Vaughan****
 
 Rainier is the mountain that made me the man I am. I find myself constantly drawn back to simply invest time there, to delve within myself, and to try yet again to experience The Mountain as completely as possible. This recurring drive is what has led me to complete the Wonderland Trail ten times (detailed **[HERE][0]**and [**HERE**][1]) including a Double Wonderland (detailed **[HERE][2]**), and 2015's Cowlitz Connection project with Richard Kresser (detailed **[HERE][3]**, **[HERE][4]**, and **[HERE][5]**).
 
 In researching and preparing for the Cowlitz Connection, I learned of a dream project of legendary climber Chad Kellogg which he was never able to attempt due to his untimely passing in a climbing accident on Mount Fitz Roy. He called it the Infinity Loop. The idea was to traverse the summit, run the Wonderland trail back to the starting point in one direction, traverse the summit again, and then run the Wonderland the opposite direction back to the starting point, thus tracing a figure eight, or an infinity sign. I was gobsmacked the first time I heard this route described. Everything about it sounded huge and simple and elegant, and so far out of my league as to be laughable. But it became one of those ideas that my mind refuses to let go of once gotten ahold of. It became my go to thought whenever my mind wasn't actively engaged in something else. Whether I thought I was capable of attempting this route or not, my brain was already making plans to do so.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27a844fd-ede0-441b-ab79-f44903f0858b.jpg)
 
 The Rainier Infinity Loop inhabits the extremely nichey grey area that I find so fascinating, somewhere in between mountaineering, fastpacking, thru-hiking, and ultrarunning. Ultramountainpacking? Fast-hikaineering? Such potential descriptions are far too clunky and awkward to express what to me is a very simple and elegant idea: covering long distances in beautiful and challenging places by fair means and in good style. For the record, I'm not claiming to have ever achieved this, merely to be actively pursuing the goal.
 
