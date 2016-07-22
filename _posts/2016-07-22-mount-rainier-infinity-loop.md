@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T16:01:03.544Z'
-dateModified: '2016-07-22T16:00:58.124Z'
+datePublished: '2016-07-22T16:19:33.787Z'
+dateModified: '2016-07-22T16:19:31.688Z'
 title: Mount Rainier Infinity Loop
 author: []
 via: {}
@@ -22,7 +22,7 @@ _type: Article
 
 # Mount Rainier Infinity Loop
 
-## Only Known Time Attempt
+## Only Known Time\* Attempt
 
 **Our Parks/Your Adventure Fundraiser for The Mountaineers Youth Programs - ****Ras Vaughan and Gavin Woody**
 
@@ -57,6 +57,8 @@ Our **Mount Rainier Infinity Loop **attempt is meant to be a celebration of the 
 
 What a Blessing to be Alive! Give Thanks for Life!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/981d4f69-a368-4351-b7bc-b902765ff5f0.png)
+
+**\* Footnote:** According to some MRNP Climbing Rangers there is a local climber who completed the Infinity Loop a couple of years ago. It was done as a project of personal accomplishment with no announcement of intent, no live tracking or transparency, no trip report, and no time posted or made public. I have the utmost respect for efforts of this sort and am not trying to detract from it at all. However, Gavin and I are playing the FKT/OKT game according to the established rules: declaring our intentions, posting tracking links, opening ourselves up to public scrutiny, and establishing a time for others to challenge in the future. Since baseball is popular, I'll use a baseball analogy. A pitcher might be able to throw the world's fastest pitch under perfect conditions outside of a game. That would be a matter of great pride and personal accomplishment. However, it would not be the same as throwing the world's fastest pitch against a batter and in front of a crowd. The pitcher throwing in perfect conditions has accomplished something impressive, but is not actually playing the game. Our Rainier Infinity Loop OKT attempt is being made according to the established methodologies of Peter Bakwin's Fastest Known Time website. We are playing the game.
 
 [0]: http://ultrapedestrian.blogspot.com/2012/09/double-wonderland-reversing-ambition.html
 [1]: http://ultrapedestrian.blogspot.com/2012/09/double-wonderland-reversing-ambition_18.html
